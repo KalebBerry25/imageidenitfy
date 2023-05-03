@@ -7,7 +7,7 @@ __version__ = '0.1.0'
 # module level doc-string
 __doc__ = """
 imageidentify
-================
+=============
 
 Description
 -----------
